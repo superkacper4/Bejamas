@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/Bejamas/static/js/main.4f861ec9.chunk.js",
-    "main.js.map": "/Bejamas/static/js/main.4f861ec9.chunk.js.map",
-    "runtime-main.js": "/Bejamas/static/js/runtime-main.e84c177d.js",
-    "runtime-main.js.map": "/Bejamas/static/js/runtime-main.e84c177d.js.map",
-    "static/js/2.8ccdd0f9.chunk.js": "/Bejamas/static/js/2.8ccdd0f9.chunk.js",
-    "static/js/2.8ccdd0f9.chunk.js.map": "/Bejamas/static/js/2.8ccdd0f9.chunk.js.map",
-    "static/js/3.c5ea6256.chunk.js": "/Bejamas/static/js/3.c5ea6256.chunk.js",
-    "static/js/3.c5ea6256.chunk.js.map": "/Bejamas/static/js/3.c5ea6256.chunk.js.map",
-    "index.html": "/Bejamas/index.html",
-    "static/js/2.8ccdd0f9.chunk.js.LICENSE.txt": "/Bejamas/static/js/2.8ccdd0f9.chunk.js.LICENSE.txt"
+    "main.js": "/Bejamas/0/static/js/main.4f861ec9.chunk.js",
+    "main.js.map": "/Bejamas/0/static/js/main.4f861ec9.chunk.js.map",
+    "runtime-main.js": "/Bejamas/0/static/js/runtime-main.904b990a.js",
+    "runtime-main.js.map": "/Bejamas/0/static/js/runtime-main.904b990a.js.map",
+    "static/js/2.2b021d76.chunk.js": "/Bejamas/0/static/js/2.2b021d76.chunk.js",
+    "static/js/2.2b021d76.chunk.js.map": "/Bejamas/0/static/js/2.2b021d76.chunk.js.map",
+    "static/js/3.c5ea6256.chunk.js": "/Bejamas/0/static/js/3.c5ea6256.chunk.js",
+    "static/js/3.c5ea6256.chunk.js.map": "/Bejamas/0/static/js/3.c5ea6256.chunk.js.map",
+    "index.html": "/Bejamas/0/index.html",
+    "static/js/2.2b021d76.chunk.js.LICENSE.txt": "/Bejamas/0/static/js/2.2b021d76.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e84c177d.js",
-    "static/js/2.8ccdd0f9.chunk.js",
+    "static/js/runtime-main.904b990a.js",
+    "static/js/2.2b021d76.chunk.js",
     "static/js/main.4f861ec9.chunk.js"
   ]
 }
